@@ -1,2 +1,2 @@
 from redhat/ubi9
-from dnf install nginx -y
+run dnf install nginx -y
