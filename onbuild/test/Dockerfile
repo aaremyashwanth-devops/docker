@@ -1,1 +1,1 @@
-FROM onbuild:latest
+FROM oo"1.0.0
