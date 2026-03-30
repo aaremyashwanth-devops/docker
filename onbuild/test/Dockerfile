@@ -1,1 +1,1 @@
-FROM oo"1.0.0
+FROM oo:1.0.0
